@@ -1,0 +1,5 @@
+{
+  "fname": "{{fname}}",
+  "lname": "Alemu",
+  "address": "{{>subTemplate\\address}}"
+}
